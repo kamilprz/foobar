@@ -11,6 +11,7 @@ Write a function called answer(s) that, given a non-empty string less than 200 c
 
 ## Test cases
 ==============
+
 Inputs:
 s = "abccbaabccba"
 
