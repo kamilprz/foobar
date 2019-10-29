@@ -1,14 +1,14 @@
-# foobar
+# foo.bar
 Google Foo Bar is Google's secret recruiting process embedded within their search engine. There are 5 levels, each with a different number of challenges that follow a story.
 
 ## Level 1
-The cake is not a lie!
+[The cake is not a lie!](https://github.com/kamilprz/foobar/tree/master/Level%201/The%20cake%20is%20not%20a%20lie! "The cake is not a lie!")
 
 ## Level 2
-Please Pass The Coded Messages
+[Please Pass The Coded Messages] (https://github.com/kamilprz/foobar/tree/master/Level%202/Please%20Pass%20The%20Coded%20Messages "Please Pass The Coded Messages") \\
 Power Hungry
 
 ## Level 3
-Doomsday Fuel
-Prepare The Bunnies' Escape
+Doomsday Fuel \\
+Prepare The Bunnies' Escape \\
 Queue To Do
