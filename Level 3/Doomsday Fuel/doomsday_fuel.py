@@ -2,9 +2,6 @@
 
 from fractions import Fraction
 
-import numpy as np
-
-
 def gcd(x, y):
     def gcd1(x, y):
         if y == 0:

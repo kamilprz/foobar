@@ -9,7 +9,7 @@ class Node:
 
     def __init__(self, x, y, saldo, grid):
         self.x = x
-        self.y = y;
+        self.y = y
         self.saldo = saldo
         self.grid = grid
 

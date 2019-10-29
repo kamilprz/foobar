@@ -1,4 +1,4 @@
-# Doomsday Fuel
+# This implementation uses the numpy library, it got the right answers however failed tests, most likely due to speed
 
 from __future__ import division
 
