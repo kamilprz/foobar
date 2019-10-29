@@ -8,6 +8,7 @@ You have L, a list containing some digits (0 to 9). Write a function solution(L)
 
 ## Test cases
 ==============
+
 Inputs:
 l = [3, 1, 4, 1]
 

@@ -10,6 +10,7 @@ Write a function answer(map) that generates the length of the shortest path from
 
 ## Test cases
 ==============
+
 Inputs: maze = [ [0, 1, 1, 0], [0, 0, 0,1], [1, 1, 0, 0], [1, 1, 1, 0] ]
 
 Output: 

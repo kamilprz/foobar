@@ -9,6 +9,7 @@ Each array of solar panels contains at least 1 and no more than 50 panels, and e
 
 ## Test cases
 ==============
+
 Inputs:
 xs = [2, 0, 2, 2, 0]
 
