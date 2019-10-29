@@ -12,6 +12,6 @@ Google Foo Bar is Google's secret recruiting process embedded within their searc
 ## Level 3
 * [Doomsday Fuel](https://github.com/kamilprz/foobar/tree/master/Level%203/Doomsday%20Fuel "Doomsday Fuel")
 
-* [Prepare The Bunnies' Escape](https://github.com/kamilprz/foobar/tree/master/Level%203/Prepare%20The%20Bunnies%20Escape "Prepare The Bunnies' Escape)
+* [Prepare The Bunnies Escape](https://github.com/kamilprz/foobar/tree/master/Level%203/Prepare%20The%20Bunnies%20Escape "Prepare The Bunnies Escape")
 
 * [Queue To Do](https://github.com/kamilprz/foobar/tree/master/Level%203/Queue%20To%20Do "Queue To Do")
